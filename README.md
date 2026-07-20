@@ -1,79 +1,72 @@
 # Fossi Deffo Edmond Duplex 👋
-### Data Scientist & Mathématicien | Spécialiste Modélisation Santé & Épidémiologie
 
-Actuellement en **Master 2 Data Science et Ingénierie Mathématique à l’Université de Dschang**, je combine la rigueur des **mathématiques appliquées** (équations différentielles, statistiques) avec la puissance du **Machine Learning** et du **Deep Learning** pour répondre aux enjeux stratégiques de la santé publique et de l'environnement.
+**Data Scientist | Applied Mathematician | Machine Learning Researcher**
 
----
-
-## 🛠️ Stack Technique
-
-* **Langages & Outils :** Python (`PyTorch`, `Scikit-Learn`, `Statsmodels`, `Pandas`, `NumPy`), R, SQL, Jupyter
-* **Modélisation Santé & Épidémiologie :** PINNs (Physics-Informed Neural Networks), Modèles compartimentaux (SIR / SEIR), Régression Binomiale Négative, Modèles d'infections respiratoires & vectorielles
-* **Séries Temporelles & Statistiques :** SARIMA, Tests de stationnarité, Feature Engineering, Optimisation d'hyperparamètres
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-green?style=flat&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
-## 🔬 Projets Concrets en Santé & Publications LinkedIn
+## 🎯 Profile Overview
 
-### 1. 🫁 [Pollution Atmosphérique et Infections Respiratoires Aiguës](https://github.com/votre-user/Air-Pollution-Respiratory-Infections)
-> 📲 *Projet présenté dans un post LinkedIn sur la cartographie et l'analyse de données de santé publique.*
+Passionate **Data Scientist** with a strong foundation in **Pure & Applied Mathematics**. I bridge the gap between rigorous mathematical modeling, advanced statistical learning, and actionable decision-making.
 
-* **Code & Fichiers :** `respiratory_infections_analysis.ipynb`, `negative_binomial_model.py`
-* **Contexte & Objectif :** Évaluation de l'impact des polluants atmosphériques (PM2.5, NO2) sur l'incidence des infections respiratoires aiguës afin d'identifier les districts sanitaires prioritaires.
-* **Méthodologie & Code :**
-  * Prétraitement et agrégation spatio-temporelle de données épidémiologiques et environnementales.
-  * Modélisation par **Régression Binomiale Négative** pour gérer la surdispersion des données de comptage médical.
-  * Identification des facteurs de risque majeurs et calcul des ratios d'incidence (IRR).
-* **Technologies :** `Python`, `Statsmodels`, `Pandas`, `Seaborn`, `Matplotlib`
+Specialized in Generalized Linear Models (GLM), time-series & spatial analytics, and **Physics-Informed Neural Networks (PINNs)**—with a targeted impact on **Public Health Analytics**, **Epidemiology**, and **Environmental Data Systems**.
 
 ---
 
-### 2. 🦠 [PINNs & Modèle Épidémiologique SIR (Physics-Informed Neural Networks)](https://github.com/votre-user/PINN-Epidemiology-SIR)
-> 📲 *Projet présenté dans le cadre d'une série LinkedIn sur l'intégration des contraintes physiques et mathématiques dans le Deep Learning.*
+## 🛠️ Core Competencies & Technical Stack
 
-* **Code & Fichiers :** `pinn_sir_solver.py`, `train_pinn_epidemiology.ipynb`
-* **Contexte & Objectif :** Simulation de la dynamique de propagation des maladies transmissibles (ex. paludisme, choléra) en résolvant le système d'équations différentielles du modèle SIR ($\dot{S}, \dot{I}, \dot{R}$) via des réseaux de neurones.
-* **Méthodologie & Code :**
-  * Construction d'une architecture PyTorch incorporant les dérivées du modèle SIR directement dans la fonction de perte (`Custom Loss`).
-  * Estimation simultanée de la trajectoire épidémique et ajustement automatique des paramètres de transmission ($\beta$) et de guérison ($\gamma$).
-* **Technologies :** `Python`, `PyTorch`, `SciPy (odeint)`, `NumPy`
+### **Statistical Modeling & Machine Learning**
+* **Generalized Linear Models (GLM):** Logistic Regression, Poisson & Negative Binomial Regression, Gamma Regression (Log link), OLS Optimization
+* **Parametric & Non-Parametric ML:** Classification, Regression, Feature Selection (AIC/BIC), Parameter Estimation
+* **Physics-Informed ML:** Physics-Informed Neural Networks (PINNs), Differential Equations (ODEs/PDEs), SIR/SEIR Compartmental Models
 
----
+### **Data Engineering & Analytics**
+* **Data Processing & Wrangling:** Pandas, NumPy, SciPy, Statsmodels
+* **Deep Learning Frameworks:** PyTorch
+* **Spatial & Count Data Analysis:** Dispersion Diagnosis, Rate Modeling (Offset Integration), Geospatial Analysis
 
-### 3. 📊 [Sprint Épidémiologique : Optimisation Multi-Modèles & Modélisation Spatio-Temporelle](https://github.com/votre-user/Epidemiological-Model-Optimization)
-> 📲 *Projet documenté au cours d'un sprint de recherche et partagé en série de posts sur le workflow d'un Data Scientist.*
-
-* **Code & Fichiers :** `pipeline_optimization.py`, `spatial_epidemic_eval.ipynb`
-* **Contexte & Objectif :** Traitement et benchmark de modèles de machine learning appliqués à un jeu de données épidémiologiques ouvertes pour anticiper les pics d'infection.
-* **Méthodologie & Code :**
-  * Pipeline complet d'ingénierie des variables (Feature Engineering spatio-temporel, fenêtres glissantes).
-  * Benchmark comparatif : Régression Régularisée (Lasso/Ridge), Random Forest et Gradient Boosting.
-  * Évaluation sur métriques métiers et sanitaires ($RMSE$, $MAE$, $R^2$) avec validation croisée chronologique.
-* **Technologies :** `Python`, `Scikit-Learn`, `Pandas`
+### **Decision Support & Delivery**
+* **Public Health Analytics:** Risk Stratification, Resource Allocation, Outbreak Control Strategy
+* **Tools & Environment:** Python, Git/GitHub, LaTeX, Jupyter
 
 ---
 
-### 4. 🌤️ [Modélisation Climatique & Santé (Séries Temporelles SARIMA)](https://github.com/votre-user/Climate-Health-SARIMA-Douala)
-> 📲 *Projet axé sur la prédiction des risques environnementaux et vectoriels en Afrique centrale.*
+## 🔬 Featured Projects & Case Studies
 
-* **Code & Fichiers :** `climate_health_forecasting.py`, `stationarity_tests.py`
-* **Contexte & Objectif :** Modélisation prédictive des données climatiques (températures, précipitations à Douala) pour anticiper les périodes à risque pour les maladies vectorielles.
-* **Méthodologie & Code :**
-  * Décomposition saisonnière, tests de stationnarité (ADF) et différenciation des séries.
-  * Ajustement et sélection du modèle optimal **SARIMA** via minimisation des critères $AIC$/$BIC$.
-* **Technologies :** `Python`, `Statsmodels`, `Matplotlib`, `R`
+### 🦟 [Malaria Vector Control Strategy & Geospatial Targeting]
+> **Context & Research:** Malaria prevalence in tropical regions varies significantly across altitudes and microclimates. The goal was to pinpoint environmental drivers to optimize limited resources (ITNs, indoor spraying).
+* **Modeling Approach:** Addressed non-normal parasite density distributions by evaluating Gauss-Markov assumptions, followed by feature selection via **AIC criterion** to capture significant environmental predictors and altitude thresholds.
+* **Decision Impact:** Authored a strategic decision memo for health authorities on geographic prioritization based on predictive altitude cutoffs.
+* **Tech:** `Python`, `Statsmodels`, `OLS / GLM`, `AIC Optimization`
 
 ---
 
-## 📑 Séries Éducatives & Posts Techniques LinkedIn
-
-* 🚴‍♂️ **[Les 9 Roues de l'Apprentissage Statistique](https://github.com/votre-user/9-Roues-Apprentissage-Statistique)** : Série de posts détaillant les piliers fondamentaux des systèmes d'apprentissage (de la théorie du risque empirique aux choix d'architectures).
-* 💼 **[Data Science B2B & ROI des Modèles ML](https://github.com/votre-user/ML-Business-Metrics-Series)** : Série sur 10 jours axée sur la traduction des performances techniques ($AUC-ROC$, $Recall$) en impact métier et aide à la décision.
+### 💧 [Cholera Outbreak Control & Behavioral Factor Analysis]
+> **Context & Research:** Rapid response during a cholera outbreak requires evaluating the relative effectiveness of infrastructure (clean water supply) versus behavioral factors (soap/hygiene education) under budget constraints.
+* **Modeling Approach:** Utilized **Logistic Regression (Logit)** to estimate infection probabilities and derived **Odds Ratios (OR)** to compare risk factors.
+* **Decision Impact:** Conducted cost-effectiveness arbitration guiding public health investment between borehole repair vs. hygiene kit distribution.
+* **Tech:** `Python`, `Logistic Regression`, `Odds Ratio Analysis`, `Risk Modeling`
 
 ---
 
-## 📫 Me Contacter & Suivre mes Travaux
+### 🫁 [Respiratory Infections (ALRI) Epidemic Early-Warning System]
+> **Context & Research:** Differentiating genuine epidemic outbreaks linked to environmental pollution from baseline population growth across heterogeneous health districts.
+* **Modeling Approach:** Implemented **Poisson and Negative Binomial regression** models using **population offsets** to model incidence rates. Diagnosed over-dispersion to select optimal count models and detect spatial risk excesses.
+* **Decision Impact:** Established an anomaly detection metric to identify "atypical districts" requiring urgent epidemiological field investigation.
+* **Tech:** `Python`, `Poisson / Negative Binomial GLM`, `Over-dispersion Diagnostics`, `Rate Modeling`
 
-* **LinkedIn :** [Fossi Deffo Edmond Duplex](https://www.linkedin.com/in/votre-profil)
-* **Email :** [fossiedmond8@gmail.com](mailto:fossiedmond8@gmail.com)
-* **Localisation :** Dschang, Cameroun
+---
+
+### 🏥 [Hospital Capacity Optimization & Length of Stay (LOS) Prediction]
+> **Context & Research:** Preventing hospital overcrowding during epidemic peaks by accurately predicting patient Length of Stay (LOS) based on age and comorbidities.
+* **Modeling Approach:** Formulated a **Gamma Regression model with a Log link function**, explicitly suited for skewed, positive continuous duration data.
+* **Decision Impact:** Predicted mean bed occupancy for high-risk demographic profiles and developed a flow-prioritization strategy for crisis management.
+* **Tech:** `Python`, `Gamma GLM (Log-Link)`, `Predictive Analytics`, `Resource Optimization`
+
+---
+
+## 📈 Data-to-Decision Pipeline Workflow
+
