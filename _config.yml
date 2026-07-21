@@ -2,5 +2,6 @@ title: "Edmond Fossi"
 description: "Data Scientist | Mathématicien Appliqué | Modelisation"
 theme: jekyll-theme-minimal # Thèmes : cayman, minima, slate, midnight, etc.
 logo : tof.jpg
+lang : fr
 # Liens / Méta
 avatar: "/tof.jpg"
