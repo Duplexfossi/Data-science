@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="1762278890615.jpg" alt="Edmond Fossi" width="160" style="border-radius: 50%;">
+</p>
 # Fossi Deffo Edmond Duplex
 
 **Data Scientist** | **Applied Mathematician** | **Machine Learning Researcher**
