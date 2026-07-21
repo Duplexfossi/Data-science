@@ -1,76 +1,74 @@
-**Data Scientist** | **Applied Mathematician** | **Machine Learning Researcher**
+**Data Scientist** | **Mathématicien Appliqué** | **Chercheur en Machine Learning**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edmond_Fossi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edmond-fossi-891829324)
 [![Email](https://img.shields.io/badge/Email-fossiedmond8%40gmail.com-red?style=flat&logo=gmail)](mailto:fossiedmond8@gmail.com)
-[![Phone 1](https://img.shields.io/badge/Phone-+237_651158280-green?style=flat&logo=whatsapp)](https://wa.me/237651158280)
-[![Phone 2](https://img.shields.io/badge/Phone-+237_657287654-green?style=flat&logo=whatsapp)](https://wa.me/237657287654)
+[![WhatsApp 1](https://img.shields.io/badge/WhatsApp-+237_651158280-green?style=flat&logo=whatsapp)](https://wa.me/237651158280)
+[![WhatsApp 2](https://img.shields.io/badge/WhatsApp-+237_657287654-green?style=flat&logo=whatsapp)](https://wa.me/237657287654)
 
 ---
 
-## 🎯 Profile Overview
+## 🎯 Aperçu du Profil
 
-Passionate **Data Scientist** with a strong foundation in **Pure & Applied Mathematics**. I bridge the gap between rigorous mathematical modeling, advanced statistical learning, and actionable decision-making.
+**Data Scientist** passionné avec une solide formation en **Mathématiques Pures & Appliquées**. Je fais le pont entre la modélisation mathématique rigoureuse, l'apprentissage statistique avancé et la prise de décision stratégique.
 
 Spécialisé en modélisation mathématique et Data Science, avec un focus sur les GLM, les PINNs et l'analyse spatio-temporelle appliqués aux enjeux de la **Santé Publique et de l'Environnement**.
 
 ---
 
-## 🛠️ Core Competencies & Technical Stack
+## 🛠️ Compétences Clés & Stack Technique
 
-### **Statistical Modeling & Machine Learning**
-* **Generalized Linear Models (GLM):** Logistic Regression, Poisson & Negative Binomial Regression, Gamma Regression (Log link), OLS Optimization
-* **Parametric & Non-Parametric ML:** Classification, Regression, Feature Selection (AIC/BIC), Parameter Estimation
-* **Physics-Informed ML:** Physics-Informed Neural Networks (PINNs), Differential Equations (ODEs/PDEs), SIR/SEIR Compartmental Models
+### **Modélisation Statistique & Machine Learning**
+* **Modèles Linéaires Généralisés (GLM) :** Régression Logistique, Régression de Poisson & Binomiale Négative, Régression Gamma (lien Log), Optimisation MCO
+* **Apprentissage Automatique Paramétrique & Non-Paramétrique :** Classification, Régression, Sélection de variables (AIC/BIC), Estimation de paramètres
+* **Machine Learning Informé par la Physique :** Réseaux de Neurones Informés par la Physique (PINNs), Équations Différentielles (EDO/EDP), Modèles Compartimentaux SIR/SEIR
 
-### **Data Engineering & Analytics**
-* **Data Processing & Wrangling:** Pandas, NumPy, SciPy, Statsmodels
-* **Deep Learning Frameworks:** PyTorch
-* **Spatial & Count Data Analysis:** Dispersion Diagnosis, Rate Modeling (Offset Integration), Geospatial Analysis
+### **Ingénierie des Données & Analytics**
+* **Traitement & Manipulation de Données :** Pandas, NumPy, SciPy, Statsmodels
+* **Frameworks de Deep Learning :** PyTorch
+* **Analyse de Données Spatiales & de Comptage :** Diagnostic de surdispersion, Modélisation de taux (intégration d'offset), Analyse géospatiale
 
-### **Decision Support & Delivery**
-* **Public Health Analytics:** Risk Stratification, Resource Allocation, Outbreak Control Strategy
-* **Tools & Environment:** Python, Git/GitHub, LaTeX, Jupyter
-
----
-
-## 🔬 Featured Projects & Case Studies
-
-### 🦟 Malaria Vector Control Strategy & Geospatial Targeting
-> **Context & Research:** Malaria prevalence in tropical regions varies significantly across altitudes and microclimates. The goal was to pinpoint environmental drivers to optimize limited resources (ITNs, indoor spraying).
-* **Modeling Approach:** Addressed non-normal parasite density distributions by evaluating Gauss-Markov assumptions, followed by feature selection via **AIC criterion** to capture significant environmental predictors and altitude thresholds.
-* **Decision Impact:** Authored a strategic decision memo for health authorities on geographic prioritization based on predictive altitude cutoffs.
-* **Tech:** `Python`, `Statsmodels`, `OLS / GLM`, `AIC Optimization`
-
-🔗 [View project](https://duplexfossi.github.io/-Malaria-Vector-Control-Strategy-Geospatial-Targeting/)
+### **Aide à la Décision & Déploiement**
+* **Analyse en Santé Publique :** Stratification des risques, Allocation des ressources, Stratégies de contrôle des épidémies
+* **Outils & Environnement :** Python, Git/GitHub, LaTeX, Jupyter
 
 ---
 
-### 💧 Cholera Outbreak Control & Behavioral Factor Analysis
-> **Context & Research:** Rapid response during a cholera outbreak requires evaluating the relative effectiveness of infrastructure (clean water supply) versus behavioral factors (soap/hygiene education) under budget constraints.
-* **Modeling Approach:** Utilized **Logistic Regression (Logit)** to estimate infection probabilities and derived **Odds Ratios (OR)** to compare risk factors.
-* **Decision Impact:** Conducted cost-effectiveness arbitration guiding public health investment between borehole repair vs. hygiene kit distribution.
-* **Tech:** `Python`, `Logistic Regression`, `Odds Ratio Analysis`, `Risk Modeling`
+## 🔬 Projets Phares & Études de Cas
 
-🔗 [View project](https://github.com/Duplexfossi/NOM_DU_REPO_CHOLERA)
+### 🦟 Stratégie de Lutte Antivectorielle du Paludisme & Ciblage Géospatial
+> **Contexte & Recherche :** La prévalence du paludisme dans les régions tropicales varie considérablement selon l'altitude et les microclimats. L'objectif était d'identifier les facteurs environnementaux clés afin d'optimiser des ressources limitées (MILD, pulvérisation intradomiciliaire).
+* **Approche de Modélisation :** Traitement de la distribution non-normale de la densité parasitaire en évaluant les hypothèses de Gauss-Markov, suivi d'une sélection de variables via le **critère AIC** pour capturer les prédicteurs environnementaux significatifs et les seuils d'altitude.
+* **Impact Décisionnel :** Rédaction d'une note stratégique à l'attention des autorités sanitaires pour la priorisation géographique basée sur des seuils d'altitude prédictifs.
+* **Tech :** `Python`, `Statsmodels`, `MCO / GLM`, `Optimisation AIC`
 
----
-
-### 🫁 Respiratory Infections (ALRI) Epidemic Early-Warning System
-> **Context & Research:** Differentiating genuine epidemic outbreaks linked to environmental pollution from baseline population growth across heterogeneous health districts.
-* **Modeling Approach:** Implemented **Poisson and Negative Binomial regression** models using **population offsets** to model incidence rates. Diagnosed over-dispersion to select optimal count models and detect spatial risk excesses.
-* **Decision Impact:** Established an anomaly detection metric to identify "atypical districts" requiring urgent epidemiological field investigation.
-* **Tech:** `Python`, `Poisson / Negative Binomial GLM`, `Over-dispersion Diagnostics`, `Rate Modeling`
-
-🔗 [View GitHub Repository](https://github.com/Duplexfossi/NOM_DU_REPO_ALRI)
+🔗 [Consulter le projet](https://duplexfossi.github.io/-Malaria-Vector-Control-Strategy-Geospatial-Targeting/)
 
 ---
 
-### 🏥 Hospital Capacity Optimization & Length of Stay Prediction
-> **Context & Research:** Preventing hospital overcrowding during epidemic peaks by accurately predicting patient Length of Stay (LOS) based on age and comorbidities.
-* **Modeling Approach:** Formulated a **Gamma Regression model with a Log link function**, explicitly suited for skewed, positive continuous duration data.
-* **Decision Impact:** Predicted mean bed occupancy for high-risk demographic profiles and developed a flow-prioritization strategy for crisis management.
-* **Tech:** `Python`, `Gamma GLM (Log-Link)`, `Predictive Analytics`, `Resource Optimization`
+### 💧 Contrôle d'Épidémie de Choléra & Analyse des Facteurs Comportementaux
+> **Contexte & Recherche :** Une réponse rapide lors d'une épidémie de choléra nécessite d'évaluer l'efficacité relative des infrastructures (accès à l'eau potable) par rapport aux facteurs comportementaux (savon / éducation à l'hygiène) sous contraintes budgétaires.
+* **Approche de Modélisation :** Utilisation de la **Régression Logistique (Logit)** pour estimer les probabilités d'infection et calculer les **Odds Ratios (OR)** afin de comparer les facteurs de risque.
+* **Impact Décisionnel :** Arbitrage coût-efficacité pour guider les investissements en santé publique entre la réparation des forages et la distribution de kits d'hygiène.
+* **Tech :** `Python`, `Régression Logistique`, `Analyse par Odds Ratio`, `Modélisation des risques`
 
-🔗 [View GitHub Repository](https://github.com/Duplexfossi/NOM_DU_REPO_HOSPITAL_LOS)
+🔗 [Consulter le projet](https://github.com/Duplexfossi/NOM_DU_REPO_CHOLERA)
 
+---
 
+### 🫁 Système d'Alerte Précoce pour Infections Respiratoires Aiguës Basses (IRAB)
+> **Contexte & Recherche :** Différencier les véritables flambées épidémiques liées à la pollution atmosphérique de la croissance démographique de base à travers des districts de santé hétérogènes.
+* **Approche de Modélisation :** Mise en œuvre de modèles de **régression de Poisson et Binomiale Négative** intégrant des **offsets de population** pour modéliser les taux d'incidence. Diagnostic de la surdispersion pour sélectionner le modèle de comptage optimal et détecter les excès de risque spatiaux.
+* **Impact Décisionnel :** Établissement d'une métrique de détection d'anomalies pour identifier les "districts atypiques" nécessitant une investigation épidémiologique de terrain urgente.
+* **Tech :** `Python`, `GLM Poisson / Binomiale Négative`, `Diagnostic de surdispersion`, `Modélisation de taux`
+
+🔗 [Voir le dépôt GitHub](https://github.com/Duplexfossi/NOM_DU_REPO_ALRI)
+
+---
+
+### 🏥 Optimisation de la Capacité Hospitalière & Prédiction de la Durée de Séjour
+> **Contexte & Recherche :** Prévenir la saturation des hôpitaux lors des pics épidémiques en prédisant avec précision la durée de séjour des patients en fonction de l'âge et des comorbidités.
+* **Approche de Modélisation :** Formulation d'un **modèle de Régression Gamma avec une fonction de lien Log**, particulièrement adapté aux données de durée continues, positives et asymétriques.
+* **Impact Décisionnel :** Prédiction du taux d'occupation moyen des lits pour les profils démographiques à haut risque et développement d'une stratégie de priorisation des flux pour la gestion de crise.
+* **Tech :** `Python`, `GLM Gamma (Lien Log)`, `Analyse prédictive`, `Optimisation des ressources`
+
+🔗 [Voir le dépôt GitHub](https://github.com/Duplexfossi/NOM_DU_REPO_HOSPITAL_LOS)
