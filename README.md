@@ -13,7 +13,7 @@
 
 Passionate **Data Scientist** with a strong foundation in **Pure & Applied Mathematics**. I bridge the gap between rigorous mathematical modeling, advanced statistical learning, and actionable decision-making.
 
-Specialized in Generalized Linear Models (GLM), time-series & spatial analytics, and **Physics-Informed Neural Networks (PINNs)**—with a targeted impact on **Public Health Analytics**, **Epidemiology**, and **Environmental Data Systems**.
+Spécialisé en modélisation mathématique et Data Science, avec un focus sur les GLM, les PINNs et l'analyse spatio-temporelle appliqués aux enjeux de la **Santé Publique et de l'Environnement**.
 
 ---
 
@@ -75,7 +75,4 @@ Specialized in Generalized Linear Models (GLM), time-series & spatial analytics,
 
 🔗 [View GitHub Repository](https://github.com/Duplexfossi/NOM_DU_REPO_HOSPITAL_LOS)
 
----
-
-## 📈 Data-to-Decision Pipeline Workflow
 
